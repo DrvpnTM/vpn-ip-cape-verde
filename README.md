@@ -1,18 +1,17 @@
-# VPN IP Cape Verde — Dr VPN
+# VPN IP Cape Verde — Fast, Secure VPN for Cape Verde
 
-**VPN IP Cape Verde** is a fast, secure and free VPN for Android. Get a **Cape Verde IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Cape Verde** is a free, open-source, ad-free VPN app for Android, built for users in Cape Verde. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Cape Verde (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_cv_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-cape-verde/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Cape Verde IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Cape Verde, Cape Verde VPN, VPN IP Cape Verde, Cape Verde IP address, free VPN Cape Verde, buy VPN Cape Verde, fast VPN Cape Verde, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Cape Verde, free VPN Cape Verde, fast VPN, VPN IP Cape Verde, Android VPN, unblock websites Cape Verde.</sub>
